@@ -1,4 +1,4 @@
-### Hello friend 👋
+### Hello friend 🫶
 
 <!--
 **inodb/inodb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Our team builds open source data-intensive web applications for cancer genomics
-- Currently working on [cBioPortal](https://cbioportal.org), [Genome Nexus](https://genomenexus.org), [reVUE](https://cancerrevue.org/), [HTAN](https://humantumoratlas.org/) in the [Schultz Lab](https://www.mskcc.org/research-areas/labs/nikolaus-schultz) at MSK in New York
-- Expertise: Cancer Genomics, Software Engineering, Data Visualization, DevOps
+- 🧬 Our team builds open source data-intensive web applications for cancer genomics
+- 📊 Currently working on [cBioPortal](https://cbioportal.org), [Genome Nexus](https://genomenexus.org), [reVUE](https://cancerrevue.org/) and [HTAN](https://humantumoratlas.org/) in the [Schultz Lab](https://www.mskcc.org/research-areas/labs/nikolaus-schultz) at MSK in New York
+- 🕺 Expertise: Cancer Genomics, Software Engineering, Data Visualization, DevOps

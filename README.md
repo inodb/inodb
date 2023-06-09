@@ -20,5 +20,9 @@ Here are some ideas to get you started:
 - 🕺 Expertise: Cancer Genomics, Software Engineering, Data Visualization, DevOps
 
 #### Connect
-<a href="https://www.linkedin.com/in/inodb/" target="_blank"><img src="https://github.com/cBioPortal/cbioportal/assets/1334004/e0d378f9-7573-4368-a241-bc99f2b88c0f" width=20 /></a>
-<a href="https://twitter.com/inodb" target="_blank"><img src="https://github.com/cBioPortal/cbioportal/assets/1334004/3cfae819-9b8b-4181-91f3-af877e8d219e" width=20 /></a>
+<a href="https://www.linkedin.com/in/inodb/" rel=”nofollow”>
+  <img src="https://github.com/cBioPortal/cbioportal/assets/1334004/e0d378f9-7573-4368-a241-bc99f2b88c0f" alt="LinkedIn Icon" width=20 />
+</a>
+<a href="https://twitter.com/inodb" rel=”nofollow”>
+  <img src="https://github.com/cBioPortal/cbioportal/assets/1334004/3cfae819-9b8b-4181-91f3-af877e8d219e" alt="Twitter Icon" width=20 />
+</a>

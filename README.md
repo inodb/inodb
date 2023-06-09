@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 🧬 Our team builds open source data-intensive web applications for cancer genomics
 - 📊 Currently working on [cBioPortal](https://cbioportal.org), [Genome Nexus](https://genomenexus.org), [reVUE](https://cancerrevue.org/) and [HTAN](https://humantumoratlas.org/) in the [Schultz Lab](https://www.mskcc.org/research-areas/labs/nikolaus-schultz) at MSK in New York
 - 🕺 Expertise: Cancer Genomics, Software Engineering, Data Visualization, DevOps
+
+#### Connect
+<a href="https://www.linkedin.com/in/inodb/" target="_blank"><img src="https://github.com/cBioPortal/cbioportal/assets/1334004/e0d378f9-7573-4368-a241-bc99f2b88c0f" width=20 /></a>
+<a href="https://twitter.com/inodb" target="_blank"><img src="https://github.com/cBioPortal/cbioportal/assets/1334004/3cfae819-9b8b-4181-91f3-af877e8d219e" width=20 /></a>

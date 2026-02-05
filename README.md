@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 📊 Currently working on [cBioPortal](https://cbioportal.org), [Genome Nexus](https://genomenexus.org), [reVUE](https://cancerrevue.org/) and [HTAN](https://humantumoratlas.org/) in the [Schultz Lab](https://www.mskcc.org/research-areas/labs/nikolaus-schultz) at MSK in New York
 - 🕺 Expertise: Cancer Genomics, Software Engineering, Data Visualization, DevOps
 - 🎓 Find out more about my research on [Google Scholar](https://scholar.google.com/citations?user=Pze5p28AAAAJ&hl=en)
+- 🤖 [Snip, my agent](https://github.com/snippy-ai) works harder than me
 
 #### Connect
 <a href="https://www.linkedin.com/in/inodb/"><img src="https://raw.githubusercontent.com/inodb/inodb/main/linkedin.svg" alt="LinkedIn" width="20px"/></a>
